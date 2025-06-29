@@ -10,7 +10,7 @@ A deep learning model to **detect emotions** from Twitter text, using:
 
 ## 📂 Project Structure
 
-- **Data Preparation**: Download, clean, and balance the dataset.
+- **Data Preparation**: Download, clean, and balance the dataset  .
 - **Vocabulary Building**: Create a custom vocabulary using word frequencies and GloVe embeddings.
 - **Sequence Conversion**: Transform cleaned texts into padded token sequences.
 - **Dataset and DataLoader**: Build PyTorch Dataset and DataLoader for training/validation/testing.
